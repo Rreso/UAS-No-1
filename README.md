@@ -1,7 +1,5 @@
 # UAS-No-1
-Nama      : Kasimirus Reso Pangestu P
-Nim       : 4212111044
-Kelas     : Mekatronika 5B Malam
+Kasimirus Reso Pangestu P_4212111044_MK 5B Malam
 
 Source Code soal UAS no 1
 
