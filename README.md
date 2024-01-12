@@ -9,6 +9,5 @@ Soal
     dengan waktu maksimal 10 menit (wajib menampilkan pembicara). Video di-upload di YouTube dan link-nya dikirimkan di e-learning!
 
 Note.
-Sebelum menjalankan program, pastikan menjalakan / menginstall
-pip install numpy scikit-learn scikit-image
+Sebelum menjalankan program, pastikan menjalakan / menginstall : pip install numpy scikit-learn scikit-image
 
