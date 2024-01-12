@@ -8,3 +8,7 @@ Soal
     dan precision. Source code program di-upload di Github profile masing-masing (pastikan tidak private repository), link repository di-upload di e-learning! Buat penjelasan dari program yang Anda buat menggunakan video 
     dengan waktu maksimal 10 menit (wajib menampilkan pembicara). Video di-upload di YouTube dan link-nya dikirimkan di e-learning!
 
+Note.
+Sebelum menjalankan program, pastikan menjalakan / menginstall
+pip install numpy scikit-learn scikit-image
+
